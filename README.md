@@ -5,4 +5,5 @@ Segundo o artigo A importância da polinização, publicado em julho de 2020, no
 O problema é que há uma disposição muito grande em supervalorizar a abelha melífera e considerá-la capaz de polinizar qualquer espécie vegetal, cultivada ou não.
 
 Fonte: https://www.uninter.com/noticias/estudo-aborda-o-papel-das-abelhas-para-a-agricultura?gad_source=1&gad_campaignid=19615742594&gbraid=0AAAAAC8ROFPbMJ2waGvpZ3B6UwZGRx3bo&gclid=CjwKCAjwgb_CBhBMEiwA0p3oOIPETKFTlebI0qEl5Sp3nCoNj8h9R0ctYsVye6DAaEArDYB8KLxSyRoCUg0QAvD_BwE
-Ajuda extra: ia
+
+Ajuda extra com o projeto do jogo: ia
